@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Sometype+Mono:wght@500&display=swap');
+body{
+    margin-left: 5% ;
+}
+
+h1{
+    font-family: Sometype Mono;
+    font-size: 41px;
+    font-weight: 500;
+}
+
+h2{
+    font-family: Sometype Mono;
+    font-size: 36px;
+    font-weight: 500;
+}
